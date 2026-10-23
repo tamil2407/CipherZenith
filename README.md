@@ -146,14 +146,14 @@ The modular design provides a foundation that can be extended beyond payments to
 | ------------------------ | ------------------------------ |
 | **Tamilvel Mugunthan S** | Cryptography Engineer          |
 | **Jenifer Vincy A**      | Backend & AI Engineer          |
-| **Mohamed Idrees A S**   | Frontend & Security Engineer   |
 | **Trishna B**            | DevOps & Flutter App Developer |
+| **Mohamed Idrees A S**   | Frontend & Security Engineer   |
+
 
 **Mentor:** Dr. R. Lal Raja Singh
 **HOD, EEE — KIT – Kalaignarkarunanidhi Institute of Technology**
 
-**Team ID:** `IG26P03591`
-**Track:** `IEngage`
+
 
 ---
 
